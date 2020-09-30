@@ -1,0 +1,26 @@
+# 一般国内Apple肯定正常,不需要开代理
+DOMAIN,apple.comscoreresearch.com,proxy
+DOMAIN-SUFFIX,aaplimg.com,proxy
+DOMAIN-SUFFIX,akadns.net,proxy
+DOMAIN-SUFFIX,apple-cloudkit.com,proxy
+DOMAIN-SUFFIX,apple.co,proxy
+DOMAIN-SUFFIX,apple.com,proxy
+DOMAIN-SUFFIX,apple.news,proxy
+DOMAIN-SUFFIX,appstore.com,proxy
+DOMAIN-SUFFIX,cdn-apple.com,proxy
+DOMAIN-SUFFIX,crashlytics.com,proxy
+DOMAIN-SUFFIX,icloud-content.com,proxy
+DOMAIN-SUFFIX,icloud.com,proxy
+DOMAIN-SUFFIX,itunes.com,proxy
+DOMAIN-SUFFIX,me.com,proxy
+DOMAIN-SUFFIX,mzstatic.com,proxy
+IP-CIDR,17.0.0.0/8,no-resolve
+IP-CIDR,63.92.224.0/19,no-resolve
+IP-CIDR,65.199.22.0/23,no-resolve
+IP-CIDR,139.178.128.0/18,no-resolve
+IP-CIDR,144.178.0.0/19,no-resolve
+IP-CIDR,144.178.36.0/22,no-resolve
+IP-CIDR,144.178.48.0/20,no-resolve
+IP-CIDR,192.35.50.0/24,no-resolve
+IP-CIDR,198.183.17.0/24,no-resolve
+IP-CIDR,205.180.175.0/24,no-resolve
