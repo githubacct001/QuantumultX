@@ -1,4 +1,6 @@
 #其他
-host-suffix, baidu.com, direct
 
-#广告
+# 广告
+# 番号楼 m.fanhaolou.com
+host, pic.xjcsk.com, reject
+host, ce.fisher56.com, reject
