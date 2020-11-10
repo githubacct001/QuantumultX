@@ -3,6 +3,8 @@ host, pic.xjcsk.com, reject
 host, ce.fisher56.com, reject
 
 # pianku m.pianku.me
+host, iqiyi.com-t-iqiyi.com, direct
+host, m.pianku.me, direct
 host, wvvvvvvw.zhongchaoyinshua.com, reject
 host, vip.beiweigroup.com, reject
 host, gif.jingteinv.com, reject
@@ -10,7 +12,7 @@ host, vip.yangniupiju.com, reject
 host, xn--xhq9mt12cf5v.xn--io0a7i, reject
 host, pv.vipwm.cc, reject
 
-# tinghaode.info
+# tinghaode tinghaode.info
 host, js.mudezs.com, reject
 host, chys.dyuadask.com, reject
 host-suffix, yzyszy.com, reject
