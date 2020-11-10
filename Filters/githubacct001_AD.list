@@ -9,3 +9,15 @@ host, gif.jingteinv.com, reject
 host, vip.yangniupiju.com, reject
 host, xn--xhq9mt12cf5v.xn--io0a7i, reject
 host, pv.vipwm.cc, reject
+
+# tinghaode.info
+host, js.mudezs.com, reject
+host, chys.dyuadask.com, reject
+host-suffix, yzyszy.com, reject
+host, m.xmmh.pw, reject
+host, img.buyunqian.com, reject
+host, m.moolkv.cn, reject
+host, hj.xayjx.cn, reject
+host, b.58xwz.cn, reject
+host, yqrta.xyz, reject
+host, c3.hashfish.cn, reject
