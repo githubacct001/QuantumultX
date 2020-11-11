@@ -1,3 +1,8 @@
+# 嘀哩哩 www.dililitv.com
+host, xigua-cdn.haima-zuida.com, direct
+host, pic.dlili.tv, direct
+host, www.dililitv.com, direct
+
 # 番号楼 m.fanhaolou.com
 host, pic.xjcsk.com, reject
 host, ce.fisher56.com, reject
