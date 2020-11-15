@@ -5,9 +5,9 @@ host, xc.xiyqjea.cn, reject
 host, uc.sogo.shuangshiyihightgo.top, reject
 
 # 嘀哩哩 www.dililitv.com
-host, xigua-cdn.haima-zuida.com, direct
-host, pic.dlili.tv, direct
-host, www.dililitv.com, direct
+#host, xigua-cdn.haima-zuida.com, direct
+#host, pic.dlili.tv, direct
+#host, www.dililitv.com, direct
 
 # 番号楼 m.fanhaolou.com
 host, pic.xjcsk.com, reject
