@@ -1,3 +1,9 @@
+
+# cocomanhua www.cocomanhua.com
+host, xg.tjwmtrw.cn, reject
+host, xc.xiyqjea.cn, reject
+host, uc.sogo.shuangshiyihightgo.top, reject
+
 # 嘀哩哩 www.dililitv.com
 host, xigua-cdn.haima-zuida.com, direct
 host, pic.dlili.tv, direct
