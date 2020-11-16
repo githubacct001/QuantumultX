@@ -16,6 +16,9 @@ host, ce.fisher56.com, reject
 # pianku m.pianku.me
 host, iqiyi.com-t-iqiyi.com, direct
 host, m.pianku.me, direct
+host, wx.yubangsmart.com, reject
+host, pv.dakawm.cc, reject
+host, ad.xn--3bs795g.link, reject
 host, wvvvvvvw.zhongchaoyinshua.com, reject
 host, vip.beiweigroup.com, reject
 host, gif.jingteinv.com, reject
