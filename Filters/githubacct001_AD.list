@@ -1,3 +1,9 @@
+# 知乎
+DOMAIN,118.89.204.198,REJECT
+DOMAIN-KEYWORD,118.89.204.198,REJECT
+IP-CIDR,118.89.204.198/32,REJECT
+DOMAIN,appcloud2.in.zhihu.com,REJECT
+USER-AGENT,AVOS*,REJECT
 
 # cocomanhua www.cocomanhua.com
 host, xg.tjwmtrw.cn, reject
