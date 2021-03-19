@@ -1,4 +1,11 @@
 ##
+
+host-suffix, zhmyq.cn, reject
+host-suffix, yingfulook.cn, reject
+host, ad-channel.wikawika.xyz, reject
+host, ad-display.wikawika.xyz, reject
+host-suffix, pangolin-sdk-toutiao-b.com, reject
+host, bds.snssdk.com, reject
 host-suffix, adserve.work, reject
 host-suffix, pangolin-sdk-toutiao.com, reject
 host, adsmis.duxiaoman.com, reject
