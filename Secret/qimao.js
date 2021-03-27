@@ -11,7 +11,7 @@ hostname = xiaoshuo.wtzw.com
 
 let obj = JSON.parse($response.body)
 
-obj.body.isvip = ｛
+obj.value.vip = ｛
   "data" : {
     "is_vip" : "1",
   }
