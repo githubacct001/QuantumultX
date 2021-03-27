@@ -1,7 +1,0 @@
-host-suffix, loggly.com, proxy
-host-suffix, segment.com, proxy
-host-suffix, intercom.io, proxy
-host-suffix, intercomcdn.com, proxy
-host-suffix, amplitude.com, proxy
-host-suffix, notion.so, proxy
-host-suffix, amazonaws.com, proxy
