@@ -10,9 +10,11 @@ hostname = xiaoshuo.wtzw.com
 */
 
 let obj = JSON.parse($response.body)
+
 obj.body.isvip = ｛
   "data" : {
     "is_vip" : "1",
   }
 };
+
 $done({body: JSON.stringify(obj)});
