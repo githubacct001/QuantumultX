@@ -21,18 +21,11 @@ host, xg.tjwmtrw.cn, reject
 host, xc.xiyqjea.cn, reject
 host, uc.sogo.shuangshiyihightgo.top, reject
 
-# 嘀哩哩 www.dililitv.com
-#host, xigua-cdn.haima-zuida.com, direct
-#host, pic.dlili.tv, direct
-#host, www.dililitv.com, direct
-
 # 番号楼 m.fanhaolou.com
 host, pic.xjcsk.com, reject
 host, ce.fisher56.com, reject
 
 # pianku m.pianku.me
-host, iqiyi.com-t-iqiyi.com, direct
-host, m.pianku.me, direct
 host, wx.yubangsmart.com, reject
 host, pv.dakawm.cc, reject
 host, ad.xn--3bs795g.link, reject
