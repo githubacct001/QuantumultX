@@ -1,5 +1,4 @@
 ##
-
 host-suffix, zhmyq.cn, reject
 host-suffix, yingfulook.cn, reject
 host, ad-channel.wikawika.xyz, reject
@@ -12,8 +11,11 @@ host, adsmis.duxiaoman.com, reject
 host-suffix, pglstatp-toutiao.com, reject
 host, adsdk.9imobi.com, reject
 
+# 梦蓝字幕组
+HOST-SUFFIX, mlsub.net, direct
+
 # 知乎
-DOMAIN,appcloud2.in.zhihu.com,REJECT
+HOST,appcloud2.in.zhihu.com,REJECT
 USER-AGENT,AVOS*,REJECT
 
 # cocomanhua www.cocomanhua.com
