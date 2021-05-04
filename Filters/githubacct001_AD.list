@@ -11,9 +11,6 @@ host, adsmis.duxiaoman.com, reject
 host-suffix, pglstatp-toutiao.com, reject
 host, adsdk.9imobi.com, reject
 
-# 梦蓝字幕组
-HOST-SUFFIX, mlsub.net, direct
-
 # 知乎
 HOST,appcloud2.in.zhihu.com,REJECT
 USER-AGENT,AVOS*,REJECT
