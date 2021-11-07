@@ -10,7 +10,8 @@ hostname = mangaapi.manhuaren.com
 
 let obj = JSON.parse($response.body);
 
-obj.response = {
+obj = {
+  "response" : {
     "copywriting" : "",
     "birthday" : "",
     "nickName" : "漫画人413760361",
@@ -44,6 +45,7 @@ obj.response = {
 
     ],
     "userId" : 413760361
-  }；
+  }
+};
 
 $done({body: JSON.stringify(obj)});
