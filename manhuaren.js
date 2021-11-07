@@ -3,7 +3,7 @@
 hostname = mangaapi.manhuaren.com
 
 [rewrite]
-^http:\/\/mangaapi\.manhuaren\.com\/v1\/user\/getUserInfo.* url script-response-body manhuaren.js
+^http:\/\/mangaapi\.manhuaren\.com\/v1\/user\/getUserInfo.* url script-response-body https://raw.githubusercontent.com/githubacct001/QuantumultX/secret/manhuaren.js
 
 */
 
