@@ -11,6 +11,13 @@ host, adsmis.duxiaoman.com, reject
 host-suffix, pglstatp-toutiao.com, reject
 host, adsdk.9imobi.com, reject
 
+# soul
+host, soul-ad.soulapp.cn, reject
+host-suffix, getui.com, reject
+host, soul-push.soulapp.cn, reject
+host, ad.soulapp.cn, reject
+host, ad-r.soulapp.cn, reject
+
 # 知乎
 HOST,appcloud2.in.zhihu.com,REJECT
 USER-AGENT,AVOS*,REJECT
@@ -19,6 +26,7 @@ USER-AGENT,AVOS*,REJECT
 host, xg.tjwmtrw.cn, reject
 host, xc.xiyqjea.cn, reject
 host, uc.sogo.shuangshiyihightgo.top, reject
+host-suffix, sb4you1.com, reject
 
 # 番号楼 m.fanhaolou.com
 host, pic.xjcsk.com, reject
