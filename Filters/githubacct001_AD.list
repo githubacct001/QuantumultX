@@ -10,6 +10,9 @@ host-suffix, pangolin-sdk-toutiao.com, reject
 host, adsmis.duxiaoman.com, reject
 host-suffix, pglstatp-toutiao.com, reject
 host, adsdk.9imobi.com, reject
+host-suffix, os8.pw, reject
+host-suffix, admobile.top, reject
+host, admobile.oss-cn-hangzhou.aliyuncs.com, reject
 
 # soul
 host, soul-ad.soulapp.cn, reject
