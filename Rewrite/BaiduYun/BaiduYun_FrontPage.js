@@ -1,3 +1,12 @@
+/*
+[mitm]
+hostname = pan.baidu.com
+
+[rewrite]
+^https:\/\/pan\.baidu\.com\/api\/usercfg\?app_id=250528(\S){656} url script-response-body https://raw.githubusercontent.com/githubacct001/QuantumultX/secret/Rewrite/BaiduYun/BaiduYun_FrontPage.js
+*/
+
+
 let obj = JSON.parse($response.body);
 
 obj = {
