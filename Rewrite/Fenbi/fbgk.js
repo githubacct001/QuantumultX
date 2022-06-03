@@ -1,7 +1,7 @@
 /*
 
 [rewrite] 
-^https:\/\/tiku\.fenbi\.com\/iphone\/(shenlun|xingce|sqgj)\/banners\/v2?.* url script-response-body fbgk.js
+^https:\/\/tiku\.fenbi\.com\/iphone\/(shenlun|xingce|sqgj)\/banners\/v2?.* url script-response-body https://raw.githubusercontent.com/githubacct001/QuantumultX/secret/Rewrite/Fenbi/fbgk.js
 
 [mitm] 
 hostname = tiku.fenbi.com,
