@@ -1,6 +1,6 @@
 /*
 [rewrite] 
-^https:\/\/api\.m\.mi\.com\/v1\/app\/start url script-response-body XiaomiMall_Open.js
+^https:\/\/api\.m\.mi\.com\/v1\/app\/start url script-response-body https://raw.githubusercontent.com/githubacct001/QuantumultX/secret/Rewrite/XiaomiMall/XiaomiMall_Open.js
 
 [mitm] 
 hostname = api.m.mi.com
