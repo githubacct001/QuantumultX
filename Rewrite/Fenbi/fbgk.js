@@ -10,7 +10,7 @@ hostname = tiku.fenbi.com,
 
 let obj = JSON.parse($response.body);
 
-{
+obj = {
   "banners" : {
     "total" : 0,
     "datas" : [
