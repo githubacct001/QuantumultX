@@ -14,6 +14,9 @@ host-suffix, os8.pw, reject
 host-suffix, admobile.top, reject
 host, admobile.oss-cn-hangzhou.aliyuncs.com, reject
 
+# 讯飞广告
+host, a-qmad.qm989.com, reject
+
 # soul
 host, soul-ad.soulapp.cn, reject
 host-suffix, getui.com, reject
