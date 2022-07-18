@@ -1,62 +1,28 @@
-##
-host-suffix, zhmyq.cn, reject
-host-suffix, yingfulook.cn, reject
-host, ad-channel.wikawika.xyz, reject
-host, ad-display.wikawika.xyz, reject
-host-suffix, pangolin-sdk-toutiao-b.com, reject
-host, bds.snssdk.com, reject
-host-suffix, adserve.work, reject
-host-suffix, pangolin-sdk-toutiao.com, reject
-host, adsmis.duxiaoman.com, reject
-host-suffix, pglstatp-toutiao.com, reject
-host, adsdk.9imobi.com, reject
+#----------杂
 host-suffix, os8.pw, reject
 host-suffix, admobile.top, reject
 host, admobile.oss-cn-hangzhou.aliyuncs.com, reject
 
-# 讯飞广告
+# > 讯飞广告
 host, a-qmad.qm989.com, reject
 
-# soul
+# > soul
 host, soul-ad.soulapp.cn, reject
 host-suffix, getui.com, reject
 host, soul-push.soulapp.cn, reject
 host, ad.soulapp.cn, reject
 host, ad-r.soulapp.cn, reject
 
-# 知乎
+# > 知乎
 HOST,appcloud2.in.zhihu.com,REJECT
 USER-AGENT,AVOS*,REJECT
 
-# cocomanhua www.cocomanhua.com
+# > cocomanhua www.cocomanhua.com
 host, xg.tjwmtrw.cn, reject
 host, xc.xiyqjea.cn, reject
 host, uc.sogo.shuangshiyihightgo.top, reject
 host-suffix, sb4you1.com, reject
 
-# 番号楼 m.fanhaolou.com
+# > 番号楼 m.fanhaolou.com
 host, pic.xjcsk.com, reject
 host, ce.fisher56.com, reject
-
-# pianku m.pianku.me
-host, wx.yubangsmart.com, reject
-host, pv.dakawm.cc, reject
-host, ad.xn--3bs795g.link, reject
-host, wvvvvvvw.zhongchaoyinshua.com, reject
-host, vip.beiweigroup.com, reject
-host, gif.jingteinv.com, reject
-host, vip.yangniupiju.com, reject
-host, xn--xhq9mt12cf5v.xn--io0a7i, reject
-host, pv.vipwm.cc, reject
-
-# tinghaode tinghaode.info
-host, js.mudezs.com, reject
-host, chys.dyuadask.com, reject
-host-suffix, yzyszy.com, reject
-host, m.xmmh.pw, reject
-host, img.buyunqian.com, reject
-host, m.moolkv.cn, reject
-host, hj.xayjx.cn, reject
-host, b.58xwz.cn, reject
-host, yqrta.xyz, reject
-host, c3.hashfish.cn, reject
