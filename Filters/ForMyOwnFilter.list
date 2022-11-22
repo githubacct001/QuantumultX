@@ -10,16 +10,19 @@ host, q.qlogo.cn, direct
 host, wx.qlogo.cn, direct
 
 # > Soul去广告
-ip-cidr, 116.62.220.39/14, 🚫 广告拦截
-ip-cidr, 47.96.15.52/11, 🚫 广告拦截
-host, ssp.soulapp.cn, 🚫 广告拦截
+ip-cidr, 116.62.220.39/14, reject
+ip-cidr, 47.96.15.52/11, reject
+host, ssp.soulapp.cn, reject
+
+# > 梦蓝字幕组
+HOST-SUFFIX, mlsub.net, DIRECT
 
 # > 讯飞广告
 host, a-qmad.qm989.com, reject
 
 # > 知乎
-HOST,appcloud2.in.zhihu.com,REJECT
-USER-AGENT,AVOS*,REJECT
+host, appcloud2.in.zhihu.com, reject
+user-agent, AVOS*, reject
 
 # > cocomanhua www.cocomanhua.com
 host, xg.tjwmtrw.cn, reject
