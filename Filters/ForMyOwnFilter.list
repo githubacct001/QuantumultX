@@ -1,17 +1,21 @@
 #----------杂
+host, couplestupidity.com, reject
+host, adservice.google.com, reject
 host-suffix, os8.pw, reject
 host-suffix, admobile.top, reject
 host, admobile.oss-cn-hangzhou.aliyuncs.com, reject
 
+# > QQ&微信头像
+host, q.qlogo.cn, direct
+host, wx.qlogo.cn, direct
+
+# > Soul去广告
+ip-cidr, 116.62.220.39/14, 🚫 广告拦截
+ip-cidr, 47.96.15.52/11, 🚫 广告拦截
+host, ssp.soulapp.cn, 🚫 广告拦截
+
 # > 讯飞广告
 host, a-qmad.qm989.com, reject
-
-# > soul
-host, soul-ad.soulapp.cn, reject
-host-suffix, getui.com, reject
-host, soul-push.soulapp.cn, reject
-host, ad.soulapp.cn, reject
-host, ad-r.soulapp.cn, reject
 
 # > 知乎
 HOST,appcloud2.in.zhihu.com,REJECT
