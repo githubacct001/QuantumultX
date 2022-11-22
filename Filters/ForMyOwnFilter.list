@@ -5,7 +5,7 @@ HOST-SUFFIX, os8.pw, REJECT
 HOST-SUFFIX, admobile.top, REJECT
 HOST, admobile.oss-cn-hangzhou.aliyuncs.com, REJECT
 
-# > QQ&微信头像
+# > QQ&微信头像显示
 HOST, q.qlogo.cn, DIRECT
 HOST, wx.qlogo.cn, DIRECT
 
@@ -14,22 +14,24 @@ IP-CIDR, 116.62.220.39/14, REJECT
 IP-CIDR, 47.96.15.52/11, REJECT
 HOST, ssp.soulapp.cn, REJECT
 
-# > 梦蓝字幕组
+# > 梦蓝字幕组（直连）
 HOST-SUFFIX, mlsub.net, DIRECT
 
 # > 讯飞广告
 HOST, a-qmad.qm989.com, REJECT
 
-# > 知乎
+# > 知乎去广告
 HOST, appcloud2.in.zhihu.com, REJECT
 USER-AGENT, AVOS*, REJECT
 
-# > cocomanhua www.cocomanhua.com
+# > cocomanhua去广告
+# @网址: www.cocomanhua.com
 HOST, xg.tjwmtrw.cn, REJECT
 HOST, xc.xiyqjea.cn, REJECT
 HOST, uc.sogo.shuangshiyihightgo.top, REJECT
 HOST-SUFFIX, sb4you1.com, REJECT
 
-# > 番号楼 m.fanhaolou.com
+# > 番号楼去广告
+# @网址: m.fanhaolou.com
 HOST, pic.xjcsk.com, REJECT
 HOST, ce.fisher56.com, REJECT
