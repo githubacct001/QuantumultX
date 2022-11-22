@@ -22,7 +22,7 @@ HOST, a-qmad.qm989.com, REJECT
 
 # > 知乎
 HOST, appcloud2.in.zhihu.com, REJECT
-USER_AGENT, AVOS*, REJECT
+USER-AGENT, AVOS*, REJECT
 
 # > cocomanhua www.cocomanhua.com
 HOST, xg.tjwmtrw.cn, REJECT
