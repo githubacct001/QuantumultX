@@ -1,35 +1,35 @@
 #----------杂
-host, couplestupidity.com, reject
-host, adservice.google.com, reject
-host-suffix, os8.pw, reject
-host-suffix, admobile.top, reject
-host, admobile.oss-cn-hangzhou.aliyuncs.com, reject
+HOST, couplestupidity.com, REJECT
+HOST, adservice.google.com, REJECT
+HOST-SUFFIX, os8.pw, REJECT
+HOST-SUFFIX, admobile.top, REJECT
+HOST, admobile.oss-cn-hangzhou.aliyuncs.com, REJECT
 
 # > QQ&微信头像
-host, q.qlogo.cn, direct
-host, wx.qlogo.cn, direct
+HOST, q.qlogo.cn, DIRECT
+HOST, wx.qlogo.cn, DIRECT
 
 # > Soul去广告
-ip-cidr, 116.62.220.39/14, reject
-ip-cidr, 47.96.15.52/11, reject
-host, ssp.soulapp.cn, reject
+IP_CIDR, 116.62.220.39/14, REJECT
+IP_CIDR, 47.96.15.52/11, REJECT
+HOST, ssp.soulapp.cn, REJECT
 
 # > 梦蓝字幕组
 HOST-SUFFIX, mlsub.net, DIRECT
 
 # > 讯飞广告
-host, a-qmad.qm989.com, reject
+HOST, a-qmad.qm989.com, REJECT
 
 # > 知乎
-host, appcloud2.in.zhihu.com, reject
-user-agent, AVOS*, reject
+HOST, appcloud2.in.zhihu.com, REJECT
+USER_AGENT, AVOS*, REJECT
 
 # > cocomanhua www.cocomanhua.com
-host, xg.tjwmtrw.cn, reject
-host, xc.xiyqjea.cn, reject
-host, uc.sogo.shuangshiyihightgo.top, reject
-host-suffix, sb4you1.com, reject
+HOST, xg.tjwmtrw.cn, REJECT
+HOST, xc.xiyqjea.cn, REJECT
+HOST, uc.sogo.shuangshiyihightgo.top, REJECT
+HOST-SUFFIX, sb4you1.com, REJECT
 
 # > 番号楼 m.fanhaolou.com
-host, pic.xjcsk.com, reject
-host, ce.fisher56.com, reject
+HOST, pic.xjcsk.com, REJECT
+HOST, ce.fisher56.com, REJECT
