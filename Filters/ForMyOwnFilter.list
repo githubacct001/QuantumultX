@@ -10,8 +10,8 @@ HOST, q.qlogo.cn, DIRECT
 HOST, wx.qlogo.cn, DIRECT
 
 # > Soul去广告
-IP-CIDR, 116.62.220.39/14, REJECT
-IP-CIDR, 47.96.15.52/11, REJECT
+IP-CIDR, 116.62.220.39/32, REJECT
+IP-CIDR, 47.96.15.52/32, REJECT
 HOST, ssp.soulapp.cn, REJECT
 
 # > 梦蓝字幕组（直连）
