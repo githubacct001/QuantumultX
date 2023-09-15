@@ -5,6 +5,12 @@ HOST-SUFFIX, os8.pw, REJECT
 HOST-SUFFIX, admobile.top, REJECT
 HOST, admobile.oss-cn-hangzhou.aliyuncs.com, REJECT
 
+# > 全民K歌去开屏广告
+HOST, gdc.kg.qq.com, REJECT
+
+# > 中国移动云盘广告
+HOST, ad.mcloud.139.com, REJECT
+
 # > QQ&微信头像显示
 HOST, q.qlogo.cn, DIRECT
 HOST, wx.qlogo.cn, DIRECT
